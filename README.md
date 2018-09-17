@@ -8,7 +8,7 @@
 <betabot> Reloaded.
 <betabot> Configuration saved.
 
-<gyng> ~octo hello?
+<gyng> ~octocock hello?
 <betabot> Hi, this is Hell!
 ```
 
@@ -23,13 +23,13 @@ This is an quick and dirty plugin for [betabot](https://github.com/gyng/betabot/
 ## Update
 
 ```
-~update octo
+~update octocock
 ```
 
 ## Use
 
 ```
-<user> ~octo hello?
+<user> ~octocock hello?
 <betabot> Hi, this is Hell!
 ```
 
