@@ -10,6 +10,7 @@ source 'https://rubygems.org'
 
 group :test do
   gem 'betabot', git: 'https://github.com/gyng/betabot.git'
+  gem 'rest-client'
   gem 'rspec'
   gem 'rubocop'
 end

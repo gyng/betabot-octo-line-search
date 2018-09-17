@@ -1,6 +1,6 @@
 {
-    "name": "pong",
-    "git": "https://github.com/gyng/betabot-example-plugin.git",
-    "url": "https://github.com/gyng/betabot-example-plugin",
+    "name": "octo",
+    "git": "https://github.com/gyng/betabot-octo-line-search.git",
+    "url": "https://github.com/gyng/betabot-octo-line-search",
     "has_dependencies": false
 }
